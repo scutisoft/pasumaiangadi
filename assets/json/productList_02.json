@@ -1,0 +1,121 @@
+{
+  "Guid": "22B7AB65-CD8D-4990-9FB9-9C2294440A14",
+  "valueArray": [
+    {
+      "key": "ProductList",
+      "value": [
+        {
+          "ProductId": 1,
+          "ProductName": "Carrot",
+          "StrikePrice": "25",
+          "DisplayPrice": "5.00",
+          "Price": "5.00",
+          "IsStrike": true,
+          "IsDiscount": true,
+          "IsPercentage": true,
+          "DiscountValue": 80,
+          "UnitId": 1,
+          "UnitName": "Kg",
+          "DisplayQuantity": 1,
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/shop/thumbnail-1.jpg",
+          "TaxList": [
+            {
+              "OtherChargesCategoryId": 1,
+              "OtherChargesId": 3,
+              "OtherChargesName": "GST",
+              "OtherChargesValue": 5,
+              "ParentOtherChargesId": 3,
+              "ProductId": 860
+            }
+          ],
+          "OtherChargesList": [
+            {
+              "ProductId": 860,
+              "OtherChargesId": 59,
+              "OtherChargesName": "service charge",
+              "OtherChargesValue": 0,
+              "IsPercentage": true,
+              "OtherChargesCategoryId": 4
+            }
+          ]
+        },
+        {
+          "ProductId": 1,
+          "ProductName": "Carrot",
+          "StrikePrice": "25",
+          "DisplayPrice": "5.00",
+          "Price": "5.00",
+          "IsStrike": true,
+          "IsDiscount": true,
+          "IsPercentage": true,
+          "DiscountValue": 80,
+          "UnitId": 1,
+          "UnitName": "Kg",
+          "DisplayQuantity": 1,
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/shop/thumbnail-1.jpg",
+          "TaxList": [
+            {
+              "OtherChargesCategoryId": 1,
+              "OtherChargesId": 3,
+              "OtherChargesName": "GST",
+              "OtherChargesValue": 5,
+              "ParentOtherChargesId": 3,
+              "ProductId": 860
+            }
+          ],
+          "OtherChargesList": [
+            {
+              "ProductId": 860,
+              "OtherChargesId": 59,
+              "OtherChargesName": "service charge",
+              "OtherChargesValue": 0,
+              "IsPercentage": true,
+              "OtherChargesCategoryId": 4
+            }
+          ]
+        },
+        {
+          "ProductId": 1,
+          "ProductName": "Carrot",
+          "StrikePrice": "25",
+          "DisplayPrice": "5.00",
+          "Price": "5.00",
+          "IsStrike": true,
+          "IsDiscount": true,
+          "IsPercentage": true,
+          "DiscountValue": 80,
+          "UnitId": 1,
+          "UnitName": "Kg",
+          "DisplayQuantity": 1,
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/shop/thumbnail-1.jpg",
+          "TaxList": [
+            {
+              "OtherChargesCategoryId": 1,
+              "OtherChargesId": 3,
+              "OtherChargesName": "GST",
+              "OtherChargesValue": 5,
+              "ParentOtherChargesId": 3,
+              "ProductId": 860
+            }
+          ],
+          "OtherChargesList": [
+            {
+              "ProductId": 860,
+              "OtherChargesId": 59,
+              "OtherChargesName": "service charge",
+              "OtherChargesValue": 0,
+              "IsPercentage": true,
+              "OtherChargesCategoryId": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

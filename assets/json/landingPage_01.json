@@ -1,0 +1,148 @@
+{
+  "Guid": "30B98355-5A47-4D0F-BA41-8405506A695F",
+  "valueArray": [
+    {
+      "key": "OfferSlider",
+      "value": [
+        {
+          "Title": "Don\\'t miss amazing grocery deals",
+          "Description": "Save upto 50% off on your first order",
+          "ButtonText": "Order Now",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/slider/slider-03.jpg",
+          "TitleColor": "titleDark",
+          "DescColor": "descLight"
+        },
+        {
+          "Title": "Don\\'t miss amazing grocery deals",
+          "Description": "Save upto 50% off on your first order",
+          "ButtonText": "Order Now",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/banner/coriander-seeds.webp",
+          "TitleColor": "titleLight",
+          "DescColor": "descDark"
+        }
+      ]
+    },
+    {
+      "key": "CategoryList",
+      "value": [
+        {
+          "CategoryName": "Area Products",
+          "CategoryId": 1,
+          "ProductFilterType": "Category",
+          "ImageType": 1,
+          "ImageDataType": "svg",
+          "ImagePath": "assets/theme/icons/category-1.svg"
+        },
+        {
+          "CategoryName": "Farm Fresh",
+          "CategoryId": 2,
+          "ProductFilterType": "Category",
+          "ImageType": 1,
+          "ImageDataType": "svg",
+          "ImagePath": "assets/theme/icons/category-2.svg"
+        },
+        {
+          "CategoryName": "Organic Vegetables & Fruits",
+          "CategoryId": 3 ,
+          "ProductFilterType": "Category",
+          "ImageType": 1,
+          "ImageDataType": "svg",
+          "ImagePath": "assets/theme/icons/category-10.svg"
+        },
+        {
+          "CategoryName": "TinToys",
+          "CategoryId": 4,
+          "ProductFilterType": "Category",
+          "ImageType": 1,
+          "ImageDataType": "svg",
+          "ImagePath": "assets/theme/icons/category-3.svg"
+        }
+      ]
+    },
+    {
+      "key": "FeatureBrandsList",
+      "value": [
+        {
+          "Title": "60 % Offer",
+          "Description": "First User Use this promo",
+          "ButtonText": "WELCOME60",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/offer-slider.png",
+          "TitleColor": "feaTitleDark",
+          "DescColor": "feaDescDark",
+          "ProductFilterType": "Brand"
+        },
+        {
+          "Title": "50 % Offer",
+          "Description": "First User Use this promo",
+          "ButtonText": "WELCOME 50",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/offer-slider.png",
+          "TitleColor": "feaTitleDark",
+          "DescColor": "feaDescDark",
+          "ProductFilterType": "Brand"
+        }
+      ]
+    },
+    {
+      "key": "TodaysDeal",
+      "value": [
+        {
+          "Title": "60 % Offer",
+          "Description": "First User Use this promo",
+          "ButtonText": "WELCOME60",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/offer-slider.png",
+          "TitleColor": "feaTitleDark",
+          "DescColor": "feaDescDark",
+          "ProductFilterType": "TodaysDeal"
+        },
+        {
+          "Title": "50 % Offer",
+          "Description": "First User Use this promo",
+          "ButtonText": "WELCOME 50",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/offer-slider.png",
+          "TitleColor": "feaTitleDark",
+          "DescColor": "feaDescDark",
+          "ProductFilterType": "TodaysDeal"
+        }
+      ]
+    },
+    {
+      "key": "TopSaleList",
+      "value": [
+        {
+          "Title": "60 % Offer",
+          "Description": "First User Use this promo",
+          "ButtonText": "WELCOME60",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/offer-slider.png",
+          "TitleColor": "feaTitleDark",
+          "DescColor": "feaDescDark",
+          "ProductFilterType": "TopSale"
+        },
+        {
+          "Title": "50 % Offer",
+          "Description": "First User Use this promo",
+          "ButtonText": "WELCOME 50",
+          "ImageType": 1,
+          "ImageDataType": "png",
+          "ImagePath": "assets/offer-slider.png",
+          "TitleColor": "feaTitleDark",
+          "DescColor": "feaDescDark",
+          "ProductFilterType": "TopSale"
+        }
+      ]
+    }
+  ]
+}
